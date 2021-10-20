@@ -18,7 +18,7 @@ at GitHub. Check live preview(link below).
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-Check live demonstration <a href="https://dorota1997.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
+Check live demonstration <a href="https://jeff2106.github.io/jean-philippe-sara-porte-folio/"><strong>here</strong></a>
 
 <img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
 
@@ -32,7 +32,7 @@ Check live demonstration <a href="https://dorota1997.github.io/react-frontend-de
 // package.json
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://dorota1997.github.io/react-frontend-dev-portfolio/",   <-- remove/edit this
+  "homepage": "https://jeff2106.github.io/jean-philippe-sara-porte-folio/",   <-- remove/edit this
   "version": "0.1.0",
   "private": true,
   "dependencies": {
