@@ -32,6 +32,10 @@
             "name": "JavaScript"
           },
           {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
             "class": "devicon-php-plain",
             "name": "PHP"
           }
@@ -117,7 +121,7 @@
       {
         "company": "Agnès Mère",
         "title": "Developpeur Mobile Free-lance",
-        "years": "04.2021 - 07.2020",
+        "years": "04.2021 - 07.2021",
         "mainTech": [
           "React Native 7/8"
         ],
