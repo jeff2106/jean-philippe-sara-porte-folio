@@ -66,7 +66,7 @@
       },
       {
         "title": "E-Learning",
-        "startDate": "2015",
+        "startDate": "2021",
         "description": "",
         "images": [
           "images/matrix.png",
@@ -117,7 +117,7 @@
       {
         "company": "Agnès Mère",
         "title": "Developpeur Mobile Free-lance",
-        "years": "04.2021 - 07.2019",
+        "years": "04.2021 - 07.2020",
         "mainTech": [
           "React Native 7/8"
         ],
