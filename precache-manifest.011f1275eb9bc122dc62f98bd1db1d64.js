@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a3ab029bfb248db8e3d4c5626df0e4d",
+    "revision": "d99a64ce47483d4ed1d855008fc0db1c",
     "url": "/jean-philippe-sara-porte-folio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jean-philippe-sara-porte-folio/static/css/2.dfb7c7bb.chunk.css"
   },
   {
-    "revision": "8e4569b0207eba6c5ee9",
+    "revision": "08d5e79b2d92c63df761",
     "url": "/jean-philippe-sara-porte-folio/static/css/main.e8901382.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jean-philippe-sara-porte-folio/static/js/2.073043c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e4569b0207eba6c5ee9",
-    "url": "/jean-philippe-sara-porte-folio/static/js/main.c6874a4b.chunk.js"
+    "revision": "08d5e79b2d92c63df761",
+    "url": "/jean-philippe-sara-porte-folio/static/js/main.f6a69f44.chunk.js"
   },
   {
     "revision": "19b09acbfeebbe82477d",
