@@ -1,15 +1,7 @@
 {
     "basic_info": {
       "description_header": "Salut",
-<<<<<<< HEAD
       "description": "👋 Je suis Jean Philippe Sara , Etudiant en fin d'année de Licence en Reseau Informatique & Telecom. J'ai plusieurs autres competences tel que la programmation , le code et le design. Ici c'est mon porte-folio vous allez retrouvez un peu tout ce que j'ai eu a réaliser comme projet  ",
-=======
-<<<<<<< HEAD
-      "description": "👋 Je suis Jean Philippe Sara , Etudiant en fin d'année de Licence en Reseau Informatique & Telecom. J'ai plusieurs autres competences tel que la programmation , le code et le design. Ici c'est mon porte-folio vous allez retrouvez un peu tout ce que j'ai eu a réaliser comme projet  ",
-=======
-      "description": "👋 I'm Jean Philippe Sara. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
->>>>>>> 8f9ea0d4427a3abfbc845fab3162f966e46fb0de
->>>>>>> 55098e28b6c19693942d1703313986791779d77e
       "section_name": {
         "about": "A propos de moi",
         "projects": "Projects",
@@ -30,7 +22,6 @@
           {
             "class": "devicon-html5-plain",
             "name": "HTML"
-<<<<<<< HEAD
           },
           {
             "class": "devicon-css3-plain",
@@ -41,9 +32,6 @@
             "name": "JavaScript"
           },
           {
-=======
-          },
-          {
             "class": "devicon-css3-plain",
             "name": "CSS"
           },
@@ -52,7 +40,6 @@
             "name": "JavaScript"
           },
           {
->>>>>>> 55098e28b6c19693942d1703313986791779d77e
             "class": "devicon-php-plain",
             "name": "PHP"
           }
@@ -82,41 +69,6 @@
           {
             "class": "devicon-php-plain",
             "name": "PHP"
-<<<<<<< HEAD
-=======
-          }
-        ]
-      },
-      {
-        "title": "E-Learning",
-        "startDate": "2015",
-        "description": "",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "http://veractorv12.000webhostapp.com",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "BOOTSTRAP"
->>>>>>> 55098e28b6c19693942d1703313986791779d77e
           }
         ]
       },
@@ -131,7 +83,6 @@
         "url": "http://veractorv12.000webhostapp.com",
         "technologies": [
           {
-<<<<<<< HEAD
             "class": "devicon-html5-plain",
             "name": "HTML"
           },
@@ -142,10 +93,6 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
-=======
-            "class": "devicon-react-original",
-            "name": "React Native"
->>>>>>> 55098e28b6c19693942d1703313986791779d77e
           },
           {
             "class": "devicon-php-plain",
@@ -178,11 +125,7 @@
       {
         "company": "Agnès Mère",
         "title": "Developpeur Mobile Free-lance",
-<<<<<<< HEAD
-        "years": "04.2021 - 07.2020",
-=======
-        "years": "04.2021 - 07.2019",
->>>>>>> 55098e28b6c19693942d1703313986791779d77e
+        "years": "04.2021 - 07.2021",
         "mainTech": [
           "React Native 7/8"
         ],
