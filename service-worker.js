@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jean-philippe-sara-porte-folio/precache-manifest.011f1275eb9bc122dc62f98bd1db1d64.js"
+  "/jean-philippe-sara-porte-folio/precache-manifest.2be97da51c1ec9594c5bed030d9bb973.js"
 );
 
 self.addEventListener('message', (event) => {
