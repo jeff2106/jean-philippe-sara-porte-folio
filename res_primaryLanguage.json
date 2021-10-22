@@ -5,8 +5,8 @@
       "section_name": {
         "about": "A propos de moi",
         "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "skills": "Compétences",
+        "experience": "Expérience"
       }
     },
     "projects": [
@@ -42,8 +42,7 @@
         "startDate": "2021",
         "description": "Site de ventes de vetement",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/ecommerce.png"
         ],
         "url": "",
         "technologies": [
@@ -70,8 +69,8 @@
         "startDate": "2015",
         "description": "",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/matrix.png",
+          "images/matrix2.png"
         ],
         "url": "http://veractorv12.000webhostapp.com",
         "technologies": [
@@ -94,30 +93,6 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "BOOTSTRAP"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React Native"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       }

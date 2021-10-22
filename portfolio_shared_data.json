@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Jean Philippe Sara",
-      "titles": [ "Front-end Developer", "Web Designer", "Full Stack Developper", "Mobile App Developer" ],
+      "titles": [ "Front-end Developer", "Web Designer", "Mobile App Developer","Full Stack Developper" ],
       "social": [
         {
           "name": "github",
