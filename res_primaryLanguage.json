@@ -1,11 +1,7 @@
 {
     "basic_info": {
       "description_header": "Salut",
-<<<<<<< HEAD
       "description": "👋 Je suis Jean Philippe Sara , Etudiant en fin d'année de Licence en Reseau Informatique & Telecom. J'ai plusieurs autres competences tel que la programmation , le code et le design. Ici c'est mon porte-folio vous allez retrouvez un peu tout ce que j'ai eu a réaliser comme projet  ",
-=======
-      "description": "👋 I'm Jean Philippe Sara. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
->>>>>>> 8f9ea0d4427a3abfbc845fab3162f966e46fb0de
       "section_name": {
         "about": "A propos de moi",
         "projects": "Projects",
